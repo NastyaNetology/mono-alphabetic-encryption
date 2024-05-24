@@ -18,4 +18,4 @@ def test():
         print('-------------------------------')
         print (f'{decrypted_text}')
 
-test()
+test() #run test
